@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 
 I am Rafael, from Rio de Janeiro, Brazil.
 I graduated in Economics and worked as a Strategy Analyst for many years.
-Later on, I moved to Europe, where I worked mostly as a Client Service Analyst, in 4 different companies.
-In the past years I decided to a new working field, that would match my experiences.  So I am studying to master Data Analysis skills and tools, such as:
- - Excel, Power BI and Dashboards
- - MySQL and Databases
- - Python and Data Science Libraries (Pandas, Numpy, etc)
+Now I am studying Computer Science and Data Analysis.
  
- My current objective with my Github profile is to share a few things I have been working on; in order to network and help me get my 1st position as a Data Analyst.
+My current objective with my GitHub profile is to share projects I have been working on, in order to network and help me get my 1st position as a Data Analyst.
 
- My maind GitHubPage is: https://rafsz.github.io/
+My main GitHubPage is: https://rafsz.github.io/
  
- My LinkedIn is: https://www.linkedin.com/in/szmit/
+My LinkedIn is: https://www.linkedin.com/in/szmit/
 
- More info: https://about.me/rafaelszmit
+More info: https://about.me/rafaelszmit
