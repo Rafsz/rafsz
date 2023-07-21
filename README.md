@@ -24,5 +24,9 @@ In the past years I decided to a new working field, that would match my experien
  - Python and Data Science Libraries (Pandas, Numpy, etc)
  
  My current objective with my Github profile is to share a few things I have been working on; in order to network and help me get my 1st position as a Data Analyst.
+
+ My maind GitHubPage is: https://rafsz.github.io/
  
  My LinkedIn is: https://www.linkedin.com/in/szmit/
+
+ More info: https://about.me/rafaelszmit
