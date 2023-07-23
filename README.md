@@ -21,8 +21,8 @@ Now I am studying Computer Science and Data Analysis.
  
 My current objective with my GitHub profile is to share projects I have been working on, in order to network and help me get my 1st position as a Data Analyst.
 
-My main GitHubPage is: https://rafsz.github.io/
+My main GitHubPage: https://rafsz.github.io/
  
-My LinkedIn is: https://www.linkedin.com/in/szmit/
+My LinkedIn: https://www.linkedin.com/in/szmit/
 
 More info: https://about.me/rafaelszmit
